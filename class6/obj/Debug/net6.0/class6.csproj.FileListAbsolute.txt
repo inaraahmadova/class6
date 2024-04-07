@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\class6\class6\obj\Debug\net6.0\class6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\class6\class6\obj\Debug\net6.0\class6.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\class6\class6\obj\Debug\net6.0\class6.AssemblyInfo.cs
+C:\Users\Hp\Desktop\class6\class6\obj\Debug\net6.0\class6.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\class6\class6\bin\Debug\net6.0\class6.exe
+C:\Users\Hp\Desktop\class6\class6\bin\Debug\net6.0\class6.deps.json
+C:\Users\Hp\Desktop\class6\class6\bin\Debug\net6.0\class6.runtimeconfig.json
+C:\Users\Hp\Desktop\class6\class6\bin\Debug\net6.0\class6.dll
+C:\Users\Hp\Desktop\class6\class6\bin\Debug\net6.0\class6.pdb
+C:\Users\Hp\Desktop\class6\class6\obj\Debug\net6.0\class6.dll
+C:\Users\Hp\Desktop\class6\class6\obj\Debug\net6.0\refint\class6.dll
+C:\Users\Hp\Desktop\class6\class6\obj\Debug\net6.0\class6.pdb
+C:\Users\Hp\Desktop\class6\class6\obj\Debug\net6.0\class6.genruntimeconfig.cache
+C:\Users\Hp\Desktop\class6\class6\obj\Debug\net6.0\ref\class6.dll

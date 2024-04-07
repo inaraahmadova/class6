@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\class6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B0360-1927-4D14-BB61-D6B171D8458D}|class6\\class6.csproj|c:\\users\\hp\\desktop\\class6\\class6\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B0360-1927-4D14-BB61-D6B171D8458D}|class6\\class6.csproj|solutionrelative:class6\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B0360-1927-4D14-BB61-D6B171D8458D}|class6\\class6.csproj|c:\\users\\hp\\desktop\\class6\\class6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B0360-1927-4D14-BB61-D6B171D8458D}|class6\\class6.csproj|solutionrelative:class6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B0360-1927-4D14-BB61-D6B171D8458D}|class6\\class6.csproj|c:\\users\\hp\\desktop\\class6\\class6\\weekdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B0360-1927-4D14-BB61-D6B171D8458D}|class6\\class6.csproj|solutionrelative:class6\\weekdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weekdays.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\class6\\class6\\Weekdays.cs",
+              "RelativeDocumentMoniker": "class6\\Weekdays.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\class6\\class6\\Weekdays.cs",
+              "RelativeToolTip": "class6\\Weekdays.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:22:31.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\class6\\class6\\Student.cs",
+              "RelativeDocumentMoniker": "class6\\Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\class6\\class6\\Student.cs",
+              "RelativeToolTip": "class6\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:04:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\class6\\class6\\Program.cs",
+              "RelativeDocumentMoniker": "class6\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\class6\\class6\\Program.cs",
+              "RelativeToolTip": "class6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:30:14.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
